@@ -1,10 +1,10 @@
-# Taska Manager
+# Sonata
 
-Taska Manager is a personal project designed to help you manage your tasks efficiently.
+Sonata is a task managment system that designed to help you manage your tasks efficiently.
 
 ## Requirements
 
-To run Taska Manager, you need to have Node.js 22 LTS installed. Check your Node.js version:
+To run Sonata, you need to have Node.js 22 LTS installed. Check your Node.js version:
 
 ```bash
 node -v
@@ -12,7 +12,7 @@ node -v
 
 ## Development
 
-Set up the development environment for Taska Manager:
+Set up the development environment for Sonata:
 
 ```bash
 npm install
@@ -21,7 +21,7 @@ npm run develop
 
 ## Deployment
 
-The recommended way to deploy Taska Manager is using Docker.
+The recommended way to deploy Sonata is using Docker.
 
 ## Author
 
